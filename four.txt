@@ -1,3 +1,7 @@
 four
 cat
 cat
+
+dog 
+dog
+dog
